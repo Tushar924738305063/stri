@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503992826987",
+    "project_id": "women-safety-sos-4bf7e",
+    "storage_bucket": "women-safety-sos-4bf7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503992826987:android:acb721b68d94a42df7852e",
+        "android_client_info": {
+          "package_name": "com.example.stri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503992826987-g9m7piufh9qr4nlg6id0cv94kcn3k5dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVhYJgP_8x8GjbhQzIvbp8mFdrCIoxMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503992826987-g9m7piufh9qr4nlg6id0cv94kcn3k5dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
